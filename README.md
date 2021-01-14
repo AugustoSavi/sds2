@@ -4,35 +4,31 @@ Bem-vindos ao repositório oficial da SDS 2.0!
 
 Aqui você vai encontrar os materiais de apoio para instalar as ferramentas necessárias, bem como conteúdos que vamos precisar durante o desenvolvimento de nossa aplicação.
 
-Já clica lá na star pra gente bombar esse repositório. Vamos fazer um evento épico galera! :)
+#### Conteúdos
+-  Aula 1 - Back end
+-  Aula 2 - Front end web (parte 1)
+-  Aula 3 - Front end web (parte 2)
+-  Aula 4 - front end mobile
+-  Perguntas e respostas
 
-#### Cronograma de liberação dos conteúdos
-- 04/01/2021 08h00: Aula 1 - Back end
-- 06/01/2021 08h00: Aula 2 - Front end web (parte 1)
-- 08/01/2021 08h00: Aula 3 - Front end web (parte 2) + Aula 4 - front end mobile
-- 10/01/2020 12h00: Perguntas e respostas
+### Link com todas as aulas
 
-* *ATENÇÃO: as aulas 1 2 e 3 ficarão disponíveis somente até o final do evento, dia 10/01 às 23h59. A aula 4 ficará disponível até dia 17/01 às 23h59*
-
+[Acessar vídeo aulas](https://youtube.com/playlist?list=PLL0xUfI2IgSpD9fMNagJKSeIqRtjX_VNe)
 ## Guias de instalação das ferramentas
 
-[Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds2/tree/master/instalacao/windows)
+[Guia de instalação das ferramentas no Windows](https://github.com/AugustoSavi/sds2/tree/master/instalacao/windows)
 
-[Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds2/tree/master/instalacao/linux)
+[Guia de instalação das ferramentas no Linux](https://github.com/AugustoSavi/sds2/tree/master/instalacao/linux)
 
-[Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds2/tree/master/instalacao/mac)
+[Guia de instalação das ferramentas no Mac](https://github.com/AugustoSavi/sds2/tree/master/instalacao/mac)
 
 ## Materiais de apoio das aulas
 
-[Materiais de apoio para aula 1](https://github.com/devsuperior/sds2/tree/master/aula1)
+[Materiais de apoio para aula 1](https://github.com/AugustoSavi/sds2/tree/master/aula1)
 
-[Materiais de apoio para aula 2](https://github.com/devsuperior/sds2/tree/master/aula2)
+[Materiais de apoio para aula 2](https://github.com/AugustoSavi/sds2/tree/master/aula2)
 
-[Materiais de apoio para aula 3](https://github.com/devsuperior/sds2/tree/master/aula3)
-
-## Como obter o certificado?
-
-https://github.com/devsuperior/sds2/tree/master/certificado
+[Materiais de apoio para aula 3](https://github.com/AugustoSavi/sds2/tree/master/aula3)
 
 ## Vídeos de preparação
 
